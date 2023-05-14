@@ -1,2 +1,2 @@
-# LiveStan
+# LIVESTAN
 For the stans.
