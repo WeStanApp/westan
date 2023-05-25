@@ -1,2 +1,2 @@
-# LIVESTAN
+# WeStan
 For the stans.
